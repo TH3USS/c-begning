@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Abacaxi",
+    "Preco": 10.00,
+    "DataVenda": "2024-08-23T23:40:16.3382507-03:00"
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Macça",
+    "Preco": 20.00,
+    "DataVenda": "2024-08-23T23:40:16.3382507-03:00"
+  }
+]
